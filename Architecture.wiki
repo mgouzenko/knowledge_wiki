@@ -1,0 +1,3 @@
+= CPU's Interface with Peripheral Devices =
+== Direct Memory Access (DMA) ==
+  * What is DMA: http://www.embedded.com/electronics-blogs/beginner-s-corner/4024879/Introduction-to-direct-memory-access

@@ -1,0 +1,4 @@
+= Memory Management =
+* Page fault and vma basics: http://duartes.org/gustavo/blog/post/how-the-kernel-manages-your-memory/
+* Commentary on locking for virtual memory code: http://lxr.free-electrons.com/source/Documentation/vm/locking?v=2.6.32
+   - Discusses page_table_lock & mmap_sem
